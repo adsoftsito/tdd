@@ -1,0 +1,74 @@
+Rubrica parcial 1 - IMC
+ 
+Equipos de 2 personas.
+
+Releases :
+      - imc-hombre (tablas imc, nota: edad)
+      - imc-mujer  
+      - ui (entrada:  sexo (H/M), estatura (cms), peso, edad y resultado: imc, ticket con la tabla )
+
+Entradas:
+
+      Sexo:  H
+      Estatura:  170
+      Peso: 74
+      Edad: 32
+
+Salidas:
+
+      Resultado
+      IMC:  25.2
+      Diagnostico: Sobrepeso (Obesidad 1, Obesidad 2, Obesidad3, Morbida )..      
+
+      Tabla Hombres Rango edad ( 30 - 40)
+      bajo peso  60 - 65
+      normal     66 - 70 
+  --->    sobrepeso  71 - 76
+      obesidad 1 77 - 82  
+      
+1.- Documento de requerimientos en latex
+      
+        Valor: 1-10 pts   
+
+2.- Administracion del proyecto en proyectos de github con Kanban Automatizados.
+       
+        Valor: 1-5 pts   
+
+3.- Un solo repositorio para el proyecto con modelo Git Branching Model con branchs: 
+	- master
+        - hotfixes
+        - release
+        - develop
+        - 1 branch por cada issue dentro del proyecto
+
+	Valor: 1-5 pts
+
+      
+
+4.- Los branchs master, hotfixes, release y develop deberan estar protegidos por github action para rechazar
+      push y pull request que no cumplan con los scripts de install, build o test.
+
+       Valor: 1-10 pts
+
+
+5.- Network Graph con el mapa completo de cada release y las contribuciones de cada miembro del equipo
+
+ 	Valor: 1-20 pts
+
+
+6.- Cada issue declarado debera tener un su definicion, mockup, diagrama de clases (si aplica)  y las n pruebas que debera pasar para ser aceptado.
+
+       Valor: 1-10 pts
+
+
+7.- El front debera ser publicado en 2 ambientes:
+       - Testing:    (branch release) en servidor de la clase (en usuario del lider del equipo)
+       - Produccion: (branch master) en firebase
+
+        Valor: 1-20 pts
+
+
+8.- Alcanzar un code-coverage del proyecto de 100% en cuanto a las pruebas unitarias codificadas ( cada prueba definida en los issue's debera ser codificada )
+
+       Valor: 1-20 pts.
+      
