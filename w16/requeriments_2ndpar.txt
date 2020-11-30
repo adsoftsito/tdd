@@ -1,0 +1,40 @@
+
+
+Segundo Parcial
+
+-------------------------
+
+FrontEnd (Angular 10.x + )
+
+Release 1
+Meta 1: landingpage (11-Dic-2020)
+   - landing (uimejorada, link login, link signup)
+
+Release 2
+Meta 2: users (18-Dic-2020)
+   - login ( obtener token, profile y logout )
+   - signup
+
+Release 3
+Meta 3 : graphs (xx-Ene-2021)
+   - historico-imc ( protegido por token )
+   - grafica
+
+
+-----------------------
+
+Backend (Springboot)
+
+Repo Base: https://github.com/adsoftsito/springboot-jwt.git
+
+Release 1
+Meta 1: users-access (4-dic-2020)
+   - users
+
+Release 2
+Meta 2 : graphs
+   - imc  ( post, getbyid )
+
+
+NOTA: publicar api en heroku
+
