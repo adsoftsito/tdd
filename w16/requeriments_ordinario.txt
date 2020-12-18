@@ -1,6 +1,12 @@
 
 
-Segundo Parcial
+Ordinario
+
+Fecha: 11 ene 2020
+
+Extraordinario: 18 ene 2020
+
+Titulo: 25 ene 2020
 
 -------------------------
 
@@ -36,5 +42,5 @@ Meta 2 : graphs
    - imc  ( post, getbyid )
 
 
-NOTA: publicar api en heroku
+NOTA: publicar api en heroku (api) y firebase (front)
 
