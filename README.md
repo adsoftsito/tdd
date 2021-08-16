@@ -1,4 +1,4 @@
-# Pruebas de software - [lista de clase](https://docs.google.com/spreadsheets/d/1AMwmCJRbTaQ0ma5hkXJqAaaLmkHOR4i8nJbtwZoY6qk/edit?usp=sharing), [syllabus](https://docs.google.com/document/d/1H9nbPj3L5dLbrELgZens8WIjB5eVYBD0/edit)
+# Pruebas de software - [lista de clase](https://docs.google.com/spreadsheets/d/11bz7dYcyP8pTjUP0TLe0e4I6c7dxwVR2/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true), [syllabus](https://docs.google.com/document/d/1H9nbPj3L5dLbrELgZens8WIjB5eVYBD0/edit)
 
 
 # Semana 1,  Git Branching Model
