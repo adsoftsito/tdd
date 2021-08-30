@@ -10,3 +10,9 @@
 2. Crear cuenta en [Google Cloud Platform](https://console.cloud.google.com/) para proyecto final
 3. Realizar practica con framework [react](https://www.udemy.com/course/react-the-beginners-course/)
 4. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
+
+# Semana 3
+1. HTML, javascript [Repaso](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
+2. Repaso de Nodejs [Crear una API desde cero](https://docs.google.com/presentation/d/1-WYYV7bmkjMeRM5I7CLmyEouzkQTSlqRlxds67atLlI/edit?usp=sharing)
+3. Realizar Angular lab [Metas en la vida]()
+
