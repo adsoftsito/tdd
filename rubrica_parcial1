@@ -1,0 +1,14 @@
+Fecha: 24/sep/2021
+
+1.- crear un subdominio en noip para sitio --> 10 pts
+2.- Montar tu pagina de inicio en el puerto 80 de servidor propio  --> 20 pts
+    - nombre
+    - matricula
+    - liga calculadora (link a tu sitio en puerto 8081)
+    - liga a proyecto de metas en la vida
+3.- Crear tu docker de calculadora en puerto 8081 --> 30 pts
+4.- Terminar curso de angular de metas en la vida y publicarlo en docker puerto 8080 --> 40 pts
+     - tener brachs master, develop, release, hotfixes ( git branching model)
+     - tener workflows de nodejs
+     - crear rules de proteccion a branchs
+     - crear issues y branch por cada tema del curso.
