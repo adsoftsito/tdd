@@ -1,19 +1,29 @@
-Rubrica parcial 1, fecha entrega:  08/nov/2021
+Rubrica parcial 1, fecha entrega:  12/nov/2021
 
 1.- Documento (latex) de Vision y alcance de un proyecto de software.
     - Pueden instalar latex de forma local o bien usar la plataforma https://es.overleaf.com/
+    - Entregar archivos .tex y pdf
     
 	Valor: 1 - 5 pts
 
-2.- Documento con arquitectura tecnologica del proyecto ( lenguajes de front, framework de testing, contenedores, entre otros)
+2.- Diagrama con arquitectura tecnologica del proyecto ( lenguajes de front, framework de testing, contenedores, entre otros)
+    - Pueden usar https://draw.io
+    
 
    Valor: 1-5 pts
 
-5.- Administracion del proyecto en proyectos de github con Kanban Automatizados.
+3.- Administracion del proyecto en proyectos de github con Kanban Automatizados.
        
    Valor: 1-5 pts   
 
-6.- Un solo repositorio para el proyecto con modelo Git Branching Model con branchs: 
+4.- Los branchs master, hotfixes, release y develop deberan estar protegidos por github action para rechazar
+      push y pull request que no cumplan con los scripts de install, build o test.
+      
+    - NOTA: realizar configuracion en branch master antes de crear develop, release y hotfixes
+ 
+    Valor: 1-5 pts
+
+5.- Un solo repositorio para el proyecto con modelo Git Branching Model con branchs: 
 	- master
         - hotfixes
         - release
@@ -22,33 +32,30 @@ Rubrica parcial 1, fecha entrega:  08/nov/2021
 
 	Valor: 1-5 pts
 
+6.- Los branchs master, hotfixes, release y develop deberan tener reglas de proteccion para ejecutar el github action y habilitar reviews.
+       Valor: 1-5 pts
+
 7.- Cada issue declarado debera tener un su definicion, mockup, diagrama de clases (si aplica)  y las n pruebas que debera pasar para ser aceptado.
    
    NOTA:  CADA PRUEBA EN LOS ISSUES DEBE CORRESPONDER A LAS CODIFICADAS EN JASMINE CON ANGULAR 
    
        Valor: 1-5 pts
 
-8.- El front debera puede ser publicado en:
-       - Servidor de la clase o propio: (branch master) usando un contenedor Docker con http
-       - En firebase.com
-
-        Valor: 1-5 pts
-
-9.- Prototipo basico de front con los issues:
+8.- Prototipo basico de front con los issues:
     - landing page 
     - tests ( .ts y .spec.ts )
     - ui ( componente angular con html, css, ts y spec.ts)
     
     Valor: 1-10 pts.
 
-10.- Los branchs master, hotfixes, release y develop deberan estar protegidos por github action para rechazar
-      push y pull request que no cumplan con los scripts de install, build o test.
 
-       Valor: 1-5 pts
 
-11.- Los branchs master, hotfixes, release y develop deberan tener reglas de proteccion para ejecutar el github action y habilitar reviews.
-       Valor: 1-5 pts
+9.- El front debera puede ser publicado en:
+       - Servidor de la clase o propio: (branch master) usando un contenedor Docker con http
+       - En firebase.com
 
-11.- Code-coverage del proyecto ( npm run test-code-coverage) implementado
+        Valor: 1-5 pts
+
+10.- Code-coverage del proyecto ( npm run test-code-coverage) implementado ***
       NOTA: El valor del code coverage resultado de la herramienta sera proporcional al puntaje de esta seccion.
        Valor: 1-50 pts.
