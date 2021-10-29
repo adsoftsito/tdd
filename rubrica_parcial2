@@ -42,9 +42,9 @@ Rubrica parcial 1, fecha entrega:  12/nov/2021
        Valor: 1-5 pts
 
 8.- Prototipo basico de front con los issues:
-    - landing page 
-    - tests ( .ts y .spec.ts )
-    - ui ( componente angular con html, css, ts y spec.ts)
+    - landing page  -->  ( test, code, mockup )
+    - tests ( .ts y .spec.ts ) -->  (test, code)
+    - ui --> ( componente angular con html, css, ts y spec.ts)
     
     Valor: 1-10 pts.
 
