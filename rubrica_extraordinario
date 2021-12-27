@@ -1,0 +1,71 @@
+Rubrica Extraordinario, fecha entrega:  10/ene/2022
+
+Tomar un tema del url:
+
+https://www.muyinteresante.es/ciencia/fotos/las-17-ecuaciones-que-cambiaron-la-historia/formulas-historia-matematicas-black-scholes-1990
+
+Realizar el proyecto tomando en cuenta los siguientes criterios:
+
+- El proyecto debe iniciarse desde cero, no debe clonarse o hacer fork de uno existente
+- Se revisara el autor de cada commit
+- Se revisaran las fechas de cada commit
+
+
+1.- Documento (latex) de Vision y alcance de un proyecto de software.
+    - Pueden instalar latex de forma local o bien usar la plataforma https://es.overleaf.com/
+    - Entregar archivos .tex y pdf
+    
+	Valor: 1 - 5 pts
+
+2.- Diagrama con arquitectura tecnologica del proyecto ( lenguajes de front, framework de testing, contenedores, entre otros)
+    - Pueden usar https://draw.io
+    
+
+   Valor: 1-5 pts
+
+3.- Administracion del proyecto en proyectos de github con Kanban Automatizados.
+       
+   Valor: 1-5 pts   
+
+4.- Los branchs master, hotfixes, release y develop deberan estar protegidos por github action para rechazar
+      push y pull request que no cumplan con los scripts de install, build o test.
+      
+    - NOTA: realizar configuracion en branch master antes de crear develop, release y hotfixes
+ 
+    Valor: 1-5 pts
+
+5.- Un solo repositorio para el proyecto con modelo Git Branching Model con branchs: 
+	- master
+        - hotfixes
+        - release
+        - develop
+        - 1 branch por cada issue dentro del proyecto
+
+	Valor: 1-5 pts
+
+6.- Los branchs master, hotfixes, release y develop deberan tener reglas de proteccion para ejecutar el github action y habilitar reviews.
+       Valor: 1-5 pts
+
+7.- Cada issue declarado debera tener un su definicion, mockup, diagrama de clases (si aplica)  y las n pruebas que debera pasar para ser aceptado.
+   
+   NOTA:  CADA PRUEBA EN LOS ISSUES DEBE CORRESPONDER A LAS CODIFICADAS EN JASMINE CON ANGULAR 
+   
+       Valor: 1-5 pts
+
+8.- Prototipo basico de front con los issues:
+    - landing page  -->  ( test, code, mockup )
+    - tests ( .ts y .spec.ts ) -->  (test, code)
+    - ui --> ( componente angular con html, css, ts y spec.ts)
+    
+    Valor: 1-10 pts.
+
+
+
+9.- El front debera puede ser publicado en:
+       - En firebase.com
+
+        Valor: 1-5 pts
+
+10.- Code-coverage del proyecto ( npm run test-code-coverage) implementado ***
+      NOTA: El valor del code coverage resultado de la herramienta sera proporcional al puntaje de esta seccion.
+       Valor: 1-50 pts.
