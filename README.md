@@ -1,6 +1,7 @@
 # Pruebas de software - [lista de clase](https://docs.google.com/spreadsheets/d/1XNwvxhf7aF4pcgKiun-NY-tatLMJhS4D/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true), [syllabus](https://docs.google.com/document/d/1H9nbPj3L5dLbrELgZens8WIjB5eVYBD0/edit)
 
-# Sesiones grabadas de Clase [Matutino](https://drive.google.com/drive/folders/1cjlqOce-MwIo_RSv8OI9t0dycoqRlafV?usp=sharing)
+# Sesiones grabadas de Clase [SEC 1](https://drive.google.com/drive/folders/1cjlqOce-MwIo_RSv8OI9t0dycoqRlafV?usp=sharing)
+# Sesiones grabadas de Clase [SEC 2]()
 
 # Semana 1,  Conceptos de Ing de Software
 1. Lectura [Manifiesto agil](https://agilemanifesto.org/)
