@@ -6,8 +6,13 @@
 # Semana 1,  Conceptos de Ing de Software
 1. Lectura [Manifiesto agil](https://agilemanifesto.org/)
 2. Curso [Scrum fundamentals](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
-3. Instalar [nodejs](https://nodejs.org/es/download/)
-4. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
+3. Instalar [nodejs](https://nodejs.org/es/download/), probar con:
+* node --version
+* npm --version
+4. Instalar Angular con:
+* npm install -g angular/cli
+* ng --version
+6. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
 
 # Semana 2,  Git Branching Model
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
