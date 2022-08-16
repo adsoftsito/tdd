@@ -6,10 +6,11 @@
 # Semana 1,  Conceptos de Ing de Software
 1. Lectura [Manifiesto agil](https://agilemanifesto.org/)
 2. Curso [Scrum fundamentals](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
-3. Instalar [nodejs](https://nodejs.org/es/download/), probar con:
+3. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
+4. Instalar [nodejs](https://nodejs.org/es/download/), probar con:
 * node --version
 * npm --version
-4. Instalar Angular con:
+5. Instalar Angular con:
 * npm install -g angular/cli
 * ng --version
 6. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
