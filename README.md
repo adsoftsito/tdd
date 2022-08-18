@@ -11,7 +11,7 @@
 * node --version
 * npm --version
 5. Instalar Angular con:
-* npm install -g angular/cli
+* npm install -g @angular/cli
 * ng --version
 6. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
 
