@@ -1,4 +1,10 @@
-# Pruebas de software - [lista de clase](https://docs.google.com/spreadsheets/d/1XNwvxhf7aF4pcgKiun-NY-tatLMJhS4D/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true), [syllabus](https://docs.google.com/document/d/1H9nbPj3L5dLbrELgZens8WIjB5eVYBD0/edit)
+# Pruebas de software - 
+
+[lista de clase SEC 1](https://docs.google.com/spreadsheets/d/1XNwvxhf7aF4pcgKiun-NY-tatLMJhS4D/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
+
+[lista de clase SEC 2](https://docs.google.com/spreadsheets/d/106WWU_JP-f2grIMehLAIReLMdDjVKe5ts7DBjPp5UM0/edit?usp=sharing)
+
+[syllabus](https://docs.google.com/document/d/1H9nbPj3L5dLbrELgZens8WIjB5eVYBD0/edit)
 
 # Sesiones grabadas de Clase [SEC 1](https://drive.google.com/drive/folders/1cjlqOce-MwIo_RSv8OI9t0dycoqRlafV?usp=sharing)
 # Sesiones grabadas de Clase [SEC 2](https://drive.google.com/drive/folders/1hVoDOc7y1UOSj88EYb7TIvTdIvXh6jwc?usp=sharing)
