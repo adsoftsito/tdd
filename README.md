@@ -29,3 +29,8 @@
 1. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
 
+# Parcial 2
+1. Crear un proyecto nuevo de angular : ng new unit-testing
+2. Instalar Google Chrome en caso de no tenerlo
+2. Probar con : ng test
+3. Revisar [Angular Testing](https://angular.io/guide/testing)
