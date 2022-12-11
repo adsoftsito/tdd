@@ -9,6 +9,10 @@
 # Sesiones grabadas de Clase [SEC 1](https://drive.google.com/drive/folders/1cjlqOce-MwIo_RSv8OI9t0dycoqRlafV?usp=sharing)
 # Sesiones grabadas de Clase [SEC 2](https://drive.google.com/drive/folders/1hVoDOc7y1UOSj88EYb7TIvTdIvXh6jwc?usp=sharing)
 
+# Rubrica de examen extraordinario
+Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgklzFQ53IUUivBI3lAZPQZ1A_w/edit?usp=sharing)
+
+
 # Semana 1,  Conceptos de Ing de Software
 1. Lectura [Manifiesto agil](https://agilemanifesto.org/)
 2. Curso [Scrum fundamentals](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
