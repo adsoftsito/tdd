@@ -14,6 +14,7 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 
 
 # Semana 1,  Conceptos de Ing de Software
+0. Realizar [Lab 1](https://docs.google.com/presentation/d/1AcUrU5uDi_bH3lx-g7yIzXbyADRzmB1n/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 1. Lectura [Manifiesto agil](https://agilemanifesto.org/)
 2. Curso [Scrum fundamentals](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
 3. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
