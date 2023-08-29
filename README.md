@@ -15,16 +15,17 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 
 # Semana 1,  Conceptos de Ing de Software
 0. Realizar [Lab 1](https://docs.google.com/presentation/d/1AcUrU5uDi_bH3lx-g7yIzXbyADRzmB1n/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true) [usando](https://docs.google.com/presentation/d/16PWGRuL87S93ggyhgwX6jNsY9qhCTk-k/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
-1. Lectura [Manifiesto agil](https://agilemanifesto.org/)
-2. Curso [Scrum fundamentals](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
-3. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
-4. Instalar [nodejs](https://nodejs.org/es/download/), probar con:
+1. Clonar demo-api:  git clone https://github.com/adsoftsito/node-express.git
+2. Lectura [Manifiesto agil](https://agilemanifesto.org/)
+3. Curso [Scrum fundamentals](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
+4. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
+5. Instalar [nodejs](https://nodejs.org/es/download/), probar con:
 * node --version
 * npm --version
-5. Instalar Angular con:
+6. Instalar Angular con:
 * npm install -g @angular/cli
 * ng --version
-6. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
+7. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
 
 # Semana 2,  Git Branching Model
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
