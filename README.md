@@ -31,6 +31,13 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
 
+# Entrenamiento en Docker
+1. Instalar [docker](https://docs.docker.com/engine/install/centos/)
+2. Lectura [introduccion a docker](https://github.com/adsoftsito/web/blob/main/w1/docker_intro.pdf)
+3. Realizar [DockerLab](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf)
+4. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+5. Registrarse en [Docker Hub](https://hub.docker.com/)
+
 # Semana 3,  Git Branching Model, React, CI 
 1. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
