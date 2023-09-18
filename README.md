@@ -38,6 +38,11 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 4. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
 5. Registrarse en [Docker Hub](https://hub.docker.com/)
 
+# kubernetes
+
+1. deploy to [minikube](https://docs.google.com/presentation/d/1KufW46qT7pr_kWVLWu6iQAnmTD9AkaPoSqT04sHCYfE/edit#slide=id.gcb9a0b074_1_103)
+   
+
 # Semana 3,  Git Branching Model, React, CI 
 1. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
