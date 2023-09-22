@@ -39,7 +39,7 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 5. Registrarse en [Docker Hub](https://hub.docker.com/)
 
 # kubernetes
-
+0. [Creating your own serving image](https://www.tensorflow.org/tfx/serving/docker)
 1. deploy to [minikube](https://docs.google.com/presentation/d/1KufW46qT7pr_kWVLWu6iQAnmTD9AkaPoSqT04sHCYfE/edit#slide=id.gcb9a0b074_1_103)
    
 
