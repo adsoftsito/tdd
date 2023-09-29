@@ -41,7 +41,8 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 # kubernetes
 0. [Creating your own serving image](https://www.tensorflow.org/tfx/serving/docker)
 1. deploy to [minikube](https://docs.google.com/presentation/d/1KufW46qT7pr_kWVLWu6iQAnmTD9AkaPoSqT04sHCYfE/edit#slide=id.gcb9a0b074_1_103)
-2. deploy [nodejs api](https://github.com/adsoftsito/node-express)   
+2. deploy [nodejs api](https://github.com/adsoftsito/node-express)
+3. deploy [angular front](https://github.com/adsoftsito/calidad_pruebas/blob/main/TC_3004B_Sess5_deploy.pptx)  
 
 # Semana 3,  Git Branching Model, React, CI 
 1. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
