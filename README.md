@@ -49,7 +49,5 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 
 
 # Parcial 2
-1. Crear un proyecto nuevo de angular : ng new unit-testing
-2. Instalar Google Chrome en caso de no tenerlo
-2. Probar con : ng test
-3. Revisar [Angular Testing](https://angular.io/guide/testing)
+1. Realizar [unit-testing lab](https://docs.google.com/presentation/d/1Ig-ewa5ifa4JqhCPOzbEcf-LKW6EZcKK2Ws0o3eyME8/edit?usp=sharing)
+2. Revisar [Angular Testing](https://angular.io/guide/testing)
