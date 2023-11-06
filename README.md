@@ -50,4 +50,7 @@ Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgkl
 
 # Parcial 2
 1. Realizar [unit-testing lab](https://docs.google.com/presentation/d/1Ig-ewa5ifa4JqhCPOzbEcf-LKW6EZcKK2Ws0o3eyME8/edit?usp=sharing)
-2. Revisar [Angular Testing](https://angular.io/guide/testing)
+2. Realizar [integration-testing lab](https://docs.google.com/presentation/d/16q85zQCj4DZdbakqfJkRo8ZHovYNv5vmVXmeXpYWCck/edit?usp=sharing)
+
+
+Revisar [Angular Testing](https://angular.io/guide/testing)
