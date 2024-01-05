@@ -9,8 +9,8 @@
 # Sesiones grabadas de Clase [SEC 1](https://drive.google.com/drive/folders/1cjlqOce-MwIo_RSv8OI9t0dycoqRlafV?usp=sharing)
 # Sesiones grabadas de Clase [SEC 2](https://drive.google.com/drive/folders/1hVoDOc7y1UOSj88EYb7TIvTdIvXh6jwc?usp=sharing)
 
-# Rubrica de examen extraordinario
-Examen [Extraordinario](https://docs.google.com/document/d/1qzCQrDUYuKYG8KW-tgklzFQ53IUUivBI3lAZPQZ1A_w/edit?usp=sharing)
+# Rubrica de examen extraordinario 2023
+Examen [Extraordinario](https://docs.google.com/document/d/1Oj9jhaj4Vb-vz8mD1W12e6tL8UEzyclisOEKpZHk2U4/edit?usp=sharing)
 
 
 # Semana 1,  Conceptos de Ing de Software
