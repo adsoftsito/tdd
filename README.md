@@ -12,6 +12,7 @@
 # Rubrica de examen extraordinario 2023
 Examen [Extraordinario](https://docs.google.com/document/d/1Oj9jhaj4Vb-vz8mD1W12e6tL8UEzyclisOEKpZHk2U4/edit?usp=sharing)
 
+Examen TDD [Extraordinario](https://docs.google.com/document/d/1YijbhTCZnHuuRjOtPdS561AgCaVx9TyyWbEfbVenWq4/edit?usp=sharing)
 
 # Semana 1,  Conceptos de Ing de Software
 0. Realizar [Lab 1](https://docs.google.com/presentation/d/1AcUrU5uDi_bH3lx-g7yIzXbyADRzmB1n/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true) [usando](https://docs.google.com/presentation/d/16PWGRuL87S93ggyhgwX6jNsY9qhCTk-k/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
