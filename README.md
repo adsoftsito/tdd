@@ -12,7 +12,7 @@
 # Rubrica de examen extraordinario 2023
 Examen IA [Titulo](https://docs.google.com/document/d/1z-l7QSTPqijkJcvstbnJMH15L1GpwUUCpG_GjiEn7pM/edit?usp=sharing)
 
-Examen TDD [Extraordinario](https://docs.google.com/document/d/1YijbhTCZnHuuRjOtPdS561AgCaVx9TyyWbEfbVenWq4/edit?usp=sharing)
+Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IGIeFDxj6w9RlrTNAZWMC8/edit?usp=sharing)
 
 # Semana 1,  Conceptos de Ing de Software
 0. Realizar [Lab 1](https://docs.google.com/presentation/d/1AcUrU5uDi_bH3lx-g7yIzXbyADRzmB1n/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true) [usando](https://docs.google.com/presentation/d/16PWGRuL87S93ggyhgwX6jNsY9qhCTk-k/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
