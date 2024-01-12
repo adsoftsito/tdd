@@ -10,7 +10,7 @@
 # Sesiones grabadas de Clase [SEC 2](https://drive.google.com/drive/folders/1hVoDOc7y1UOSj88EYb7TIvTdIvXh6jwc?usp=sharing)
 
 # Rubrica de examen extraordinario 2023
-Examen IA [Titulo](https://docs.google.com/document/d/1z-l7QSTPqijkJcvstbnJMH15L1GpwUUCpG_GjiEn7pM/edit?usp=sharing)
+Examen IA [Titulo](https://docs.google.com/document/d/1OlBHexHCOzr831rxTw0nI6xOH3slYMwqz2yMk4xmTno/edit?usp=sharing)
 
 Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IGIeFDxj6w9RlrTNAZWMC8/edit?usp=sharing)
 
