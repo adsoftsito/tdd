@@ -15,6 +15,7 @@ Examen IA [Titulo](https://docs.google.com/document/d/1OlBHexHCOzr831rxTw0nI6xOH
 Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IGIeFDxj6w9RlrTNAZWMC8/edit?usp=sharing)
 
 # Semana 1,  Conceptos de Ing de Software
+0. Slides [w1](https://docs.google.com/presentation/d/1dmR38zfXbz5OImKuMWlomajWvuzTyQu9h99bIuJqj1I/edit?usp=sharing)
 1. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
 2. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
 2. Lectura [Manifiesto agil](https://agilemanifesto.org/)
