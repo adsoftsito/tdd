@@ -30,6 +30,7 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 1. Clonar demo-api:  git clone https://github.com/adsoftsito/node-express.git
 
 # Semana 2,  Git Branching Model
+0. Slides [w2](https://docs.google.com/presentation/d/1PmCYgs9TKgE7kB4k7ATI6pWGdaPTyKZo1HEiub-RCIk/edit?usp=sharing)
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
 
