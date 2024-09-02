@@ -14,8 +14,15 @@ Examen IA [Titulo](https://docs.google.com/document/d/1OlBHexHCOzr831rxTw0nI6xOH
 
 Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IGIeFDxj6w9RlrTNAZWMC8/edit?usp=sharing)
 
+
+# Slides
+1. Slides [w1](https://docs.google.com/presentation/d/1dmR38zfXbz5OImKuMWlomajWvuzTyQu9h99bIuJqj1I/edit?usp=sharing)
+2. Slides [w2](https://docs.google.com/presentation/d/1PmCYgs9TKgE7kB4k7ATI6pWGdaPTyKZo1HEiub-RCIk/edit?usp=sharing)
+3. Slides [w3](https://docs.google.com/presentation/d/1AYzrjrt8wFag9H6ue7J4VM072gSCSu1dKy9GQ2rXv6o/edit?usp=sharing)
+
+
+
 # Semana 1,  Conceptos de Ing de Software
-0. Slides [w1](https://docs.google.com/presentation/d/1dmR38zfXbz5OImKuMWlomajWvuzTyQu9h99bIuJqj1I/edit?usp=sharing)
 1. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
 2. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
 2. Lectura [Manifiesto agil](https://agilemanifesto.org/)
@@ -29,8 +36,12 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 0. Realizar [Lab 1](https://docs.google.com/presentation/d/1AcUrU5uDi_bH3lx-g7yIzXbyADRzmB1n/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true) [usando](https://docs.google.com/presentation/d/16PWGRuL87S93ggyhgwX6jNsY9qhCTk-k/edit?usp=sharing&ouid=103318994033956699072&rtpof=true&sd=true)
 1. Clonar demo-api:  git clone https://github.com/adsoftsito/node-express.git
 
-# Semana 2,  Git Branching Model
-0. Slides [w2](https://docs.google.com/presentation/d/1PmCYgs9TKgE7kB4k7ATI6pWGdaPTyKZo1HEiub-RCIk/edit?usp=sharing)
+
+
+
+
+
+
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
 2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
 
