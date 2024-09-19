@@ -20,7 +20,8 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 2. Slides [w2](https://docs.google.com/presentation/d/1PmCYgs9TKgE7kB4k7ATI6pWGdaPTyKZo1HEiub-RCIk/edit?usp=sharing)
 3. Slides [w3](https://docs.google.com/presentation/d/1AYzrjrt8wFag9H6ue7J4VM072gSCSu1dKy9GQ2rXv6o/edit?usp=sharing)
 4. Slides [w4](https://docs.google.com/presentation/d/1h4gKGPoNXIx0OML1qf6eLThxgtha3zg_ISUD3YziyQI/edit?usp=sharing)
-
+5. Slides [w5](https://docs.google.com/presentation/d/1oUOxQru3OKAAIJkF-EEFLWIgmoQeTqOY0MEyejn58L8/edit?usp=sharing)
+   
 # Semana 1,  Conceptos de Ing de Software
 1. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
 2. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
