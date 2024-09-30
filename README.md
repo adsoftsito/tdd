@@ -21,6 +21,12 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 3. Slides [w3](https://docs.google.com/presentation/d/1AYzrjrt8wFag9H6ue7J4VM072gSCSu1dKy9GQ2rXv6o/edit?usp=sharing)
 4. Slides [w4](https://docs.google.com/presentation/d/1h4gKGPoNXIx0OML1qf6eLThxgtha3zg_ISUD3YziyQI/edit?usp=sharing)
 5. Slides [w5](https://docs.google.com/presentation/d/1oUOxQru3OKAAIJkF-EEFLWIgmoQeTqOY0MEyejn58L8/edit?usp=sharing)
+
+#Parcial 2
+1. Slides [w6](https://docs.google.com/presentation/d/1Ig-ewa5ifa4JqhCPOzbEcf-LKW6EZcKK2Ws0o3eyME8/edit?usp=sharing)
+2. Slides [w7](https://docs.google.com/presentation/d/16q85zQCj4DZdbakqfJkRo8ZHovYNv5vmVXmeXpYWCck/edit?usp=sharing)
+
+
    
 # Semana 1,  Conceptos de Ing de Software
 1. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
@@ -62,9 +68,6 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 1. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
 
-# Parcial 2
-1. Realizar [unit-testing lab](https://docs.google.com/presentation/d/1Ig-ewa5ifa4JqhCPOzbEcf-LKW6EZcKK2Ws0o3eyME8/edit?usp=sharing)
-2. Realizar [integration-testing lab](https://docs.google.com/presentation/d/16q85zQCj4DZdbakqfJkRo8ZHovYNv5vmVXmeXpYWCck/edit?usp=sharing)
 3. Realizar [e2e testing](https://docs.google.com/presentation/d/10kqUfAz6EdZ_uHOT6GduhgMnhfCUOePGm7NW-AuA9ho/edit?usp=sharing)
 
 Revisar [Angular Testing](https://angular.io/guide/testing)
