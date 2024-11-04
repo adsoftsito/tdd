@@ -24,7 +24,10 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 
 # Parcial 2
 1. Slides [w6](https://docs.google.com/presentation/d/1Ig-ewa5ifa4JqhCPOzbEcf-LKW6EZcKK2Ws0o3eyME8/edit?usp=sharing)
-2. Slides [w7](https://docs.google.com/presentation/d/16q85zQCj4DZdbakqfJkRo8ZHovYNv5vmVXmeXpYWCck/edit?usp=sharing)
+
+# Parcial 3
+1. Slides [w7](https://docs.google.com/presentation/d/16q85zQCj4DZdbakqfJkRo8ZHovYNv5vmVXmeXpYWCck/edit?usp=sharing)
+2. Realizar [e2e testing](https://docs.google.com/presentation/d/10kqUfAz6EdZ_uHOT6GduhgMnhfCUOePGm7NW-AuA9ho/edit?usp=sharing)
 
 
    
@@ -68,6 +71,5 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 1. Realizar lab de [Integracion continua](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf)
 
 
-3. Realizar [e2e testing](https://docs.google.com/presentation/d/10kqUfAz6EdZ_uHOT6GduhgMnhfCUOePGm7NW-AuA9ho/edit?usp=sharing)
 
 Revisar [Angular Testing](https://angular.io/guide/testing)
