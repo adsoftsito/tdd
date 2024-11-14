@@ -29,8 +29,8 @@ Examen TDD  [titulo](https://docs.google.com/document/d/1WBQlVeKFOYL_6HQ897Wu1IG
 1. Slides [w7](https://docs.google.com/presentation/d/16q85zQCj4DZdbakqfJkRo8ZHovYNv5vmVXmeXpYWCck/edit?usp=sharing)
 2. Realizar [e2e testing](https://docs.google.com/presentation/d/10kqUfAz6EdZ_uHOT6GduhgMnhfCUOePGm7NW-AuA9ho/edit?usp=sharing)
 3. graphql [api](https://docs.google.com/presentation/d/1W__wsvUDgVTLXb8unM2Jh9e0-VLEq7aP/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
-
-
+4. [backend testing](https://docs.google.com/presentation/d/1Yc_FeFZgE0v9JpEZFG61RZ__gw7dhV0_/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+   
    
 # Semana 1,  Conceptos de Ing de Software
 1. Introduccion a [Git](https://www.github.com/adsoftsito/tdd/blob/master/w1/tdd_week1_intro_git.pdf)
